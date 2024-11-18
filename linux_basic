@@ -1,0 +1,2 @@
+yum list installed | tail -n +2 | wc -l
+yum list installed
